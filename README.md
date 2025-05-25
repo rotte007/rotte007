@@ -138,6 +138,8 @@
       <b>AWS Certified Developer Associate</b>
       <br />
       <span>Industry recognized cloud expertise</span>
+      <br />
+      <sub>AWS Cloud services</sub> 
     </td>
     <td align="center">
       <a href="https://github.com/rotte007/AWS-Serverless-Notes-WebApp">
@@ -147,7 +149,7 @@
       <br />
       <span>📈 Scaled to 500+ daily users</span>
       <br />
-      <sub>AWS Lambda, API Gateway & DynamoDB</sub>
+      <sub>AWS Lambda, API Gateway, DynamoDB, Cognito</sub>
     </td>
   </tr>
   <tr>
@@ -181,22 +183,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false&&rank_icon=github" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rotte007&theme=default&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+</div><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rotte007&style=flat&color=brightgreen&label=PROFILE+VIEWS" alt="Total Profile Views" />
+</p>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rotte007&style=flat&color=grey&label=PROFILE+VIEWS" alt="Total Profile Views" />
-</p>
 
 ---
 
