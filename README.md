@@ -175,7 +175,7 @@
 
 ## 🌟 Notable Projects & Accomplishments
 
-<div align="center">
+<div align="center" id="div1">
 
 <table>
   <tr>
@@ -228,9 +228,11 @@
 
 > 👀 *Want to see more? Check out my repos and ⭐️ a project that interests you!*
 
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" id="div2">
   <img src="https://github-readme-stats.vercel.app/api?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false&&rank_icon=github" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rotte007&theme=default&hide_border=false" alt="GitHub Streak" />
@@ -244,7 +246,7 @@
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+<div align="center" id="div3">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
 </div>
 
