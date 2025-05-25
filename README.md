@@ -177,7 +177,7 @@
 
 <div align="center" id="div1">
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/83ff3e69-d6dc-4251-b47d-f16324b74e49/public_url">
