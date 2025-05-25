@@ -56,7 +56,7 @@
 <summary><b>🔤 Programming Languages & Scripting</b></summary>
 <br>
 
-<a href="https://www.java.com" >![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<a href="https://www.java.com" >![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) </a>
 <a href="https://www.python.org">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</a>
 <a href="https://isocpp.org">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
