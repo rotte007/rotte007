@@ -181,7 +181,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/83ff3e69-d6dc-4251-b47d-f16324b74e49/public_url">
-      <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+      <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/></a>
       <br />
       <b>AWS Certified Developer Associate</b>
       <br />
@@ -191,7 +191,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/rotte007/AWS-Serverless-Notes-WebApp">
-      <img src="https://img.shields.io/badge/Serverless-Notes-4285F4?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless App"/>
+      <img src="https://img.shields.io/badge/Serverless-Notes-4285F4?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless App"/></a>
       <br />
       <b>Serverless Notes Web App</b>
       <br />
@@ -203,7 +203,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/rotte007/Incident-Data-Analyzer">
-      <img src="https://img.shields.io/badge/Incident-Analyzer-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"/>
+      <img src="https://img.shields.io/badge/Incident-Analyzer-4EAA25?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"/></a>
       <br />
       <b>Incident Data Analyzer</b>
       <br />
@@ -213,7 +213,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/rotte007/myKart">
-      <img src="https://img.shields.io/badge/ECommerce-Cart-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="E-Commerce"/>
+      <img src="https://img.shields.io/badge/ECommerce-Cart-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="E-Commerce"/></a>
       <br />
       <b>E-Commerce 'My Cart'</b>
       <br />
