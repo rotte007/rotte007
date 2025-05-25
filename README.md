@@ -64,6 +64,7 @@
 <a href="https://www.perl.org">![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)</a>
 <a href="https://www.php.net">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/">![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
+<a href="https://learn.microsoft.com/powershell/">![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)</a>
 
 
 </details>
