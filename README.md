@@ -65,6 +65,7 @@
 <a href="https://www.php.net">![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a>
 <a href="https://www.gnu.org/software/bash/">![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
 <a href="https://learn.microsoft.com/powershell/">![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)</a>
+<a href="https://www.markdownguide.org"    >![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
 
 
 </details>
@@ -84,6 +85,8 @@
 <a href="https://vitejs.dev">![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</a>
 <a href="https://webpack.js.org">![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</a>
 <a href="https://esbuild.github.io">![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)</a>
+<a href="https://redux.js.org">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
+<a href="https://rxjs.dev">![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)</a>
 
 
 </details>
@@ -139,7 +142,7 @@
 </details>
 
 <details>
-<summary><b>🖌️ Design & Misc Tools</b></summary>
+<summary><b>🖌️ Design & Misc</b></summary>
 <br>
 
 <a href="https://www.figma.com">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
@@ -149,6 +152,9 @@
 <a href="https://www.raspberrypi.org">![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</a>
 <a href="https://powerbi.microsoft.com">![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</a>
 <a href="https://www.splunk.com">![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)</a>
+<a href="https://zigbeealliance.org">![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)</a>
+<a href="https://maven.apache.org">![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)</a>
+<a href="https://tomcat.apache.org">![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)</a>
 
 </details>
 
