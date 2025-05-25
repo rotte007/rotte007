@@ -176,7 +176,7 @@
 ## 🌟 Notable Projects & Accomplishments
 
 <div align="center" id="div1">
-
+<center> 
 <table align="center">
   <tr>
     <td align="center">
@@ -223,7 +223,7 @@
     </td>
   </tr>
 </table>
-
+</center> 
 </div>
 
 > 👀 *Want to see more? Check out my repos and ⭐️ a project that interests you!*
