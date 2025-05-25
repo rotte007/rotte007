@@ -52,7 +52,7 @@
 
 ## 💻 Tech Stack
 
-<details>
+<details markdown="1">
 <summary><b>🔤 Programming Languages & Scripting</b></summary>
 <br>
 
@@ -70,7 +70,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🖥️ Frontend & UI Tools</b></summary>
 <br>
 
@@ -91,7 +91,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🔙 Backend & APIs</b></summary>
 <br>
 
@@ -107,7 +107,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>📊 Databases & Data Storage</b></summary>
 <br>
 
@@ -119,7 +119,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
@@ -141,7 +141,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🖌️ Design & Misc</b></summary>
 <br>
 
@@ -158,7 +158,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>🤖 Data Science & ML</b></summary>
 <br>
 
