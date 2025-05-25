@@ -1,14 +1,14 @@
 # 👋 Hi there, I’m Rachana Rotte
 
-🌱 Computer Science Graduate Student at University of Florida.<br/>
-🔭 I’m a **Software Enginner** building web and cloud-native applications.<br/>
+🌱 Computer Science Graduate Student at the University of Florida.<br/>
+🔭 I’m a **Software Engineer** building web and cloud-native applications.<br/>
 🧠 3+ YOE, Ex-Deloitte USI, Always a Gator🐊 and NITian🎓<br/>
 💬 Ask me about **Java**, **Python**, **AWS**, **Spring Microservices**, **Node.js**, and **Databases**.<br/>
 📍 Core Principle - BuiltForImpact<br/>
 ⚡ Fun fact: I’m an Problem Solver, Cook, Finance & AI enthusiast!<br/>
 
 ---
-### 💼 Core Skills & Expertise
+## 💼 Core Skills & Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scalable%20Application%20Design-%E2%9C%93-4B8BBE?style=flat-square" alt="Scalable Application Design" />&nbsp;
@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/Curious%20%26%20Results--Oriented-%E2%9C%93-4B8BBE?style=flat-square" alt="Curious & Results-Oriented" />
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-### 🛠️ Technical Skills, Tools & Expertise
+### 🛠️ Skills and Tools
 
 <!-- GitHub Profile README Badges -->
 <!-- Row 1: Languages, Frontend, Backend, Databases -->
@@ -65,12 +65,12 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rotte007&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rotte007&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 [![](https://visitcount.itsvg.in/api?id=rotte007&icon=2&color=0)](https://visitcount.itsvg.in)
